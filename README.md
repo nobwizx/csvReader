@@ -10,4 +10,4 @@ Finally, it loops through the Array list and gets the contents at the specified 
 5. It is also important that the "slatecode test" csv file is in the project root folder.
 6. folder structure for "src" folder should be projectFolder/src
 7. folder structure for csv file should be projectFolder/slatecode test.csv
-   where "projectFolder" is the name of the folder that has the downloaded project files.
+8. where "projectFolder" is the name of the folder that has the downloaded project files.
